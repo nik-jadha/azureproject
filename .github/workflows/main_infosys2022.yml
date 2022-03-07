@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'infosys2022'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE5F4BB9A8824056886032A8E2C638C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4976C5727F2046B08B20686D5B5726FE }}
           package: .
